@@ -1,0 +1,15 @@
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.AssemblyInfo.cs
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\bin\Debug\net6.0\FigureSquare.exe
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\bin\Debug\net6.0\FigureSquare.deps.json
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\bin\Debug\net6.0\FigureSquare.runtimeconfig.json
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\bin\Debug\net6.0\FigureSquare.dll
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\bin\Debug\net6.0\FigureSquare.pdb
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.dll
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\refint\FigureSquare.dll
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.pdb
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\FigureSquare.genruntimeconfig.cache
+C:\Users\Егор\source\repos\FigureSquare\FigureSquare\obj\Debug\net6.0\ref\FigureSquare.dll
